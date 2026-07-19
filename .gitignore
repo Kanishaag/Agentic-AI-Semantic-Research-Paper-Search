@@ -1,0 +1,6 @@
+__pycache__/
+*.npy
+*.index
+*.csv
+.env
+.secrets
